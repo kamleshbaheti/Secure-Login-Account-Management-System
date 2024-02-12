@@ -13,6 +13,11 @@ Welcome to the Secure Login and Account Management System project! This terminal
 - **User Profile Management:** Enables users to update their profile information and change passwords.
 - **Error Handling:** Includes robust error handling mechanisms to ensure smooth operation and security.
 
+## Object-Oriented Programming Concepts Used
+- **Encapsulation:** Data and methods are encapsulated within classes to provide abstraction and modularity.
+- **Inheritance:** Utilizes inheritance for code reusability and to establish relationships between classes.
+- **Polymorphism:** Employs polymorphism to provide different behaviors based on the type of user or account.
+  
 ## Technologies Used
 - **C++:** Core programming language for implementation.
 - **File Management:** Utilizes C++ file handling techniques for data storage.
